@@ -21,6 +21,7 @@
 .shopcategory-sort select {
     border: none;
     outline: none;
+    background-color: white;
 }
 
 .shopcategory-indexSort span {

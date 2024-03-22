@@ -15,7 +15,7 @@ const ShopCategory = (props) => {
                 </p>
                 <div className="shopcategory-sort">
                     <select name="shopcategory-sort" id="sort">
-                        <option value=""><span>sort by</span></option>
+                        <option value="">sort by</option>
                         <option value="kids">kids</option>
                         <option value="men">men</option>
                         <option value="women">women</option>
