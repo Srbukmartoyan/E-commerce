@@ -43,7 +43,7 @@ const ProductDisplay = ({product}) => {
                     <div className="productdisplay-right-sizes">
                         <div>S</div>
                         <div>M</div>
-                        <div>L</div>
+                        <div>L</div>  
                         <div>XL</div>
                         <div>XXL</div>
                     </div>
